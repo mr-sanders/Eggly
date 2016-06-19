@@ -1,0 +1,25 @@
+{
+  "name": "eggly",
+  "version": "1.0.0",
+  "description": "<a href=\"https://egghead.io/series/angularjs-app-from-scratch-getting-started\">![Build an AngularJS app from scratch - getting started](https://d2eip9sf3oo6c2.cloudfront.net/series/covers/000/000/006/full/egghead-angular-build-an-app-tutorial-lesson.png?1406647849)</a>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eggheadio/egghead-angularjs-from-scratch-getting-started.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eggheadio/egghead-angularjs-from-scratch-getting-started/issues"
+  },
+  "homepage": "https://github.com/eggheadio/egghead-angularjs-from-scratch-getting-started#readme"
+}
